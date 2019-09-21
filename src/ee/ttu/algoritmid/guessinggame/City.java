@@ -3,6 +3,7 @@ package ee.ttu.algoritmid.guessinggame;
 public class City {
 
     private String name;
+
     private int population;
 
     public City(String name, int population) {
